@@ -1,0 +1,24 @@
+Connected Services
+Connect your Repl to a variety of Replit's services and third-party services using .
+Never share or expose tokens in code. .
+No matching services.
+Replit Services
+Connect to Replit's storage and auth services.
+Database
+Auth (Beta)
+Object Storage
+Replit Key-Value Store
+External Services
+Connect your App to a variety of third-party services using .
+Never share or expose tokens in code. .
+OpenAI
+Google AI (Gemini)
+Anthropic (Claude)
+Perplexity
+Mistral AI
+Google Sheets
+Google Docs
+Slack
+Discord
+Stripe
+HubSpot
